@@ -4,8 +4,7 @@ Nitrogen balance and reduction of greenhouse gas emissions and nitrogen pollutio
 from the Vollnkirchner Bach catchment.
 
 
-<img src="figures/logo.png" alt= “” width="600">
-
+![logo](./figures/logo.png)
 
 ## Site scale test simulations
 
